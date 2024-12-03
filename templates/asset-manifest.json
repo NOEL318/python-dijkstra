@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8f1bc689.css",
+    "main.js": "/static/js/main.97c35fe8.js",
+    "static/media/HU.jpeg": "/static/media/HU.26b6b3b7f1bac8bcf775.jpeg",
+    "static/media/Negocios.jpeg": "/static/media/Negocios.685ea0bf2d26ca1e8f63.jpeg",
+    "static/media/CN.jpeg": "/static/media/CN.68dd3c43a15b7a38a2e8.jpeg",
+    "static/media/Gimnasio Moe.jpeg": "/static/media/Gimnasio Moe.2090c108ebd0d8c94ef9.jpeg",
+    "static/media/Gimnasio de Pesas.jpeg": "/static/media/Gimnasio de Pesas.17affad800725ae70535.jpeg",
+    "static/media/Ignacio Bernal.jpeg": "/static/media/Ignacio Bernal.a67a47000d76540dd417.jpeg",
+    "static/media/Colegio Ray.jpeg": "/static/media/Colegio Ray.ba7b22b361709f2783cf.jpeg",
+    "static/media/Biblioteca.jpeg": "/static/media/Biblioteca.7a6d424dd1da520d75ae.jpeg",
+    "static/media/Ciencias Salud.jpeg": "/static/media/Ciencias Salud.abd9c4b5e735cffa5835.jpeg",
+    "static/media/Alberca Universitaria.jpeg": "/static/media/Alberca Universitaria.848bb69f402398c495eb.jpeg",
+    "static/media/José Gaos.jpeg": "/static/media/José Gaos.0da8ffdb1202116cb5e2.jpeg",
+    "static/media/AU.jpeg": "/static/media/AU.ea06e89f6b021b9f696f.jpeg",
+    "static/media/Cafetería.jpeg": "/static/media/Cafetería.a832aac879d3e778cb16.jpeg",
+    "index.html": "/index.html",
+    "main.8f1bc689.css.map": "/static/css/main.8f1bc689.css.map",
+    "main.97c35fe8.js.map": "/static/js/main.97c35fe8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f1bc689.css",
+    "static/js/main.97c35fe8.js"
+  ]
+}
